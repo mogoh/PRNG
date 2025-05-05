@@ -1,4 +1,4 @@
-export class PRNG {
+export class PSRNG {
     private _seed: number;
 
     constructor(seed?: number) {

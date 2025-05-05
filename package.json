@@ -1,7 +1,7 @@
 {
-  "name": "prng",
-  "version": "1.0.1",
-  "main": "src/index.ts",
+  "name": "psrng",
+  "version": "1.0.2",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
